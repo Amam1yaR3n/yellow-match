@@ -1,0 +1,10 @@
+生成工具：内置 image_gen
+状态：第一阶段待用户确认，尚未接入游戏。
+参考图：/Users/huxiaoyu/Downloads/无特效无耳机.png
+
+Use case: stylized-concept.
+Asset type: Chinese casual puzzle battle game Boss avatar, stage 1 of 6, single square PNG.
+Input image: character identity and painterly illustration style reference, not a background or pose to copy.
+Create 火山哥 from the reference as a straight-on, front-facing HEAD ONLY avatar. Preserve his distinctive sculptural flowing red-orange flame-shaped hair with golden-orange inner highlights, small flame-shaped eyebrows, large amber-orange eyes, warm peach/tan skin, rounded boyish cheeks and ears, short shaved brown temple detail. Match the original soft painted 2.5D chibi illustration, warm subtle shading and richly shaped flame hair; do not turn into photorealistic or plastic 3D. Expression: relaxed, confident gentle CLOSED-MOUTH smile, looking directly forward. Original healthy skin color, NOT yellow skin yet. This will be the identity master for later expressions.
+Composition: square 1024x1024, centered full head including the complete flame hairstyle and both ears; generous clean margin about 8 percent around silhouette; head aligned upright, symmetrical front camera while hair stays naturally asymmetric. Head ends at chin. NO neck, shoulders, torso, clothing, scarf, headphones, hands, props, horns or separate surrounding flame effects. No text, watermark, frame, ground shadow or backdrop.
+Background: genuine fully transparent alpha outside the head, clean antialiased edges. One avatar only.

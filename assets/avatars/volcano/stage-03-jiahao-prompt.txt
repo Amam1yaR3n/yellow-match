@@ -1,0 +1,10 @@
+历史记录：该候选已被后续六阶段重制素材替代，候选图片已清理；当前嘉豪山已实装。
+
+嘉豪山第三形态候选，使用内置 image_gen 生成。
+状态：背景生成失败，无透明通道，棋盘格已写入图片；交由用户抠图，不自行处理或重试。尚未替换正式第三形态。
+黄色机制：第三阶段可见皮肤呈金黄色，火焰保留橙红边缘及亮黄主体；兜帽和口罩保持黑色。
+用户抠图后替换 assets/avatars/volcano/volcano-stage-03.png，并将 src/main.ts 第三形态名称改为火山哥·嘉豪山形态、标识改为 volcano-jiahao，同步素材说明。
+
+Use case: identity-preserve. Asset type: transparent PNG game boss avatar, square.
+Create 嘉豪山, replacing the third form of 火山哥. Reference 1 is the base character and MUST preserve its recognizable chibi face proportions, flame-shaped eyebrows, fiery orange eyes and painterly polished cartoon rendering. Reference 2 is the OLD third stage, used ONLY to match the degree of yellow progression: visible skin is warm golden yellow, visible flame hair mixes bright golden-yellow with substantial orange/red edges, not final-stage pure yellow. Reference 3 is costume reference ONLY: black hood pulled over the head and black face mask with a clean white interlocking Alan Walker AW monogram.
+Draw the BASE character wearing that black hood and mask, eyes slightly narrowed with a playfully cool expression. Mask covers nose/mouth/chin; hood frames the face, visible golden/orange flame forelock emerges inside the hood opening so he remains clearly 火山哥. Keep black fabric dark charcoal with readable soft folds. Head-only game avatar, no torso, no hands, no scenery. Front-facing centered complete silhouette, fills around 90% of canvas, no cropping. True transparent alpha background, no checkerboard baked into pixels, no shadow backdrop. Match original polished warm cartoon game asset style, no photoreal human face. Only text-like graphic is white AW emblem on mask.

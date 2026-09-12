@@ -1,0 +1,13 @@
+node_modules/
+.vite/
+.docx-qa/
+.DS_Store
+*.log
+
+# 保留最终 Toy 构建产物
+!dist/
+!dist/**
+
+# Toy 上传包由 pnpm package:toy 在本地生成
+yellow-match-toy.zip
+yellow-match-*.zip
